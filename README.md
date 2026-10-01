@@ -1,4 +1,3 @@
-# spotter-freight-rate-ml-assessment
 
 # Spotter Freight Rate ML Assessment
 
